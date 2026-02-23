@@ -6,7 +6,7 @@
 
 ### Premium Real-Time Cryptocurrency Tracker & Calculator
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-6366f1?style=for-the-badge&logo=github)](https://your-username.github.io/crypto-tracker)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-6366f1?style=for-the-badge&logo=github)](https://playwright1337.github.io/crypto-tracker/)
 [![MIT License](https://img.shields.io/badge/License-MIT-10b981?style=for-the-badge)](LICENSE)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
